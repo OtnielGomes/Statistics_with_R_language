@@ -12,28 +12,21 @@ The National Household Sample Survey - PNAD investigates annually, on a permanen
 ## 🚀 Starting
 
 At the link below you can obtain a copy of the project:
-* [copy of the project](https://github.com/OtnielGomes/Spark_Recommend_System-KMeans/archive/refs/heads/main.zip)
+* [copy of the project](https://github.com/OtnielGomes/Statistics_with_R_language/archive/refs/heads/main.zip)
 
 ## 🛠️ Built with:
 
 * [Anaconda-Navigator](https://www.anaconda.com/)
 * [Jupyter NoteBook](https://jupyter.org/install)
-* [Python-3](https://www.python.org/downloads/)
-* [Spark-3.5.0-bin-hadoop3.tgz](https://www.apache.org/dyn/closer.lua/spark/spark-3.5.0/spark-3.5.0-bin-hadoop3.tgz)
+* [R-Language](https://www.r-project.org/)
 ## 📦 Frameworks  
 
-* Matplotlib
-* FindSpark
-* PySpark.SQL
-* PySpark.ML
-* Skimage
-* Spotipy
-* Scipy
-* Numpy
-* Plotly
+* Dplyr
+* Glue
+* GGplot2
 
 ## ⚙️ Running the code:
 
 ### Start with the Notebook:
-* [My_Leaninng_Spark-Recommendation-System](https://github.com/OtnielGomes/Spark_Recommend_System-KMeans/blob/main/My_Leaninng_Spark-Recommendation-System.ipynb)
+* [Statistics_with_R_Descriptive_Analysis](https://github.com/OtnielGomes/Statistics_with_R_language/blob/main/Statistics_with_R_Descriptive_Analysis.ipynb)
 
